@@ -5,6 +5,7 @@
 # Changes from July 25, 2019 TextMate version
 * Use Alternate File to switch between lib and test/lib
 * Use Alternate File to switch between models and test/models
+* Added macro for changing inline namespaces to multi-line (Nested module/class definitions)
 
 # General
 
