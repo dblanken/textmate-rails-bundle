@@ -1,6 +1,6 @@
 # Installation
 
-You can install this bundle in TextMate by opening the preferences and going to the bundles tab. After installation it will be automatically updated for you.
+`git clone git://github.com/dblanken/textmate-rails-bundle ~/Library/Application\ Support/TextMate/Bundles/dblanken-rails.tmbundle`
 
 # General
 
