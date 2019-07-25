@@ -2,6 +2,10 @@
 
 `git clone git://github.com/dblanken/textmate-rails-bundle ~/Library/Application\ Support/TextMate/Bundles/dblanken-rails.tmbundle`
 
+# Changes from July 25, 2019 TextMate version
+* Use Alternate File to switch between lib and test/lib
+* Use Alternate File to switch between models and test/models
+
 # General
 
 * [Bundle Styleguide](http://kb.textmate.org/bundle_styleguide) — _before you make changes_
